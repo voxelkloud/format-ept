@@ -1,6 +1,6 @@
 {
   "name": "@voxelkloud/format-ept",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The Entwine Point Tile driver for voxelkloud: ept.json, JSON hierarchy pages, and binary / laszip / zstandard node payloads over plain static hosting.",
   "license": "MIT",
   "keywords": [
